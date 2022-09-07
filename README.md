@@ -1,0 +1,1 @@
+This is a Odin Project. This project demonstrates how to build the basics of a websites, including links and pictures.
